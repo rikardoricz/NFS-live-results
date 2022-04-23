@@ -1,4 +1,4 @@
-# NFS-live-score
+# NFS-live-results
 
 Simple app to add and store race results for Need For Speed Underground 2
 
@@ -7,7 +7,7 @@ Simple app to add and store race results for Need For Speed Underground 2
 - Michał Ostenda
 
 ## Setup
-- `git clone https://github.com/rikardoricz/nfsLiveScore`
+- `git clone https://github.com/rikardoricz/NFS-live-results`
 
 ## TODO
 - [ ] Add live preview using Ajax
