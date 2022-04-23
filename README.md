@@ -21,7 +21,7 @@ Simple app to add and store race results for Need For Speed Underground 2
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) 2022 rikardoricz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
