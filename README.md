@@ -2,6 +2,9 @@
 
 Simple app to add and store race results for Need For Speed Underground 2
 
+## Preview
+![preview-results](preview.jpg)
+
 ## Authors
 - Tomasz Świątek
 - Michał Ostenda
