@@ -1,14 +1,8 @@
 <?php
-// $servername = 'localhost'; /*fdb32.awardspace.net */
-// $username = 'root';/*4079358_nfswyscigi*/
-// $password = ''; /*Bazybazy116*/
-// $database = 'nfs_wyscigi'; /*4079358_nfswyscigi */
-
-// hosting settings
-$servername = 'fdb32.awardspace.net'; /*fdb32.awardspace.net */
-$username = '4079358_nfswyscigi';/*4079358_nfswyscigi*/
-$password = 'Bazybazy116'; /*Bazybazy116*/
-$database = '4079358_nfswyscigi'; /*4079358_nfswyscigi */
+$servername = 'localhost';
+$username = 'root';
+$password = 'password'; /*Bazybazy116*/
+$database = 'nfs_wyscigi';
 
 $conn = @new mysqli($servername, $username, $password, $database);
 
